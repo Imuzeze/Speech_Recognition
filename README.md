@@ -1,1 +1,1 @@
-# Speech_Recognition
+This project is a speech recognition system designed to transcribe spoken language into text. Leveraging state-of-the-art algorithms and machine learning techniques, the system can accurately convert audio input into written text.
